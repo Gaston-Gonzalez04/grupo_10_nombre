@@ -4,19 +4,19 @@
 
 Nuestro sitio web será una tienda en línea de comestibles y productos varios, similar a Walmart, que ofrecerá una amplia gama de productos de alta calidad y marcas reconocidas en diversas categorías. La oferta incluirá:
 
-Comestibles frescos y envasados: Frutas, verduras, carnes, productos lácteos, panadería, alimentos enlatados, cereales, snacks, bebidas, entre otros;
+Comestibles frescos y envasados: Frutas, verduras, carnes, productos lácteos, panadería, alimentos enlatados, cereales, snacks, bebidas, entre otros.
 
-Productos de cuidado personal: Artículos de higiene, cuidado del cabello, cuidado de la piel, productos de belleza, y productos para la salud y el bienestar;
+Productos de cuidado personal: Artículos de higiene, cuidado del cabello, cuidado de la piel, productos de belleza, y productos para la salud y el bienestar.
 
-Artículos de limpieza del hogar: Detergentes, productos de limpieza, papel higiénico, productos para el cuidado del hogar, entre otros;
+Artículos de limpieza del hogar: Detergentes, productos de limpieza, papel higiénico, productos para el cuidado del hogar, entre otros.
 
-Productos electrónicos: Electrónicos para el hogar, gadgets, accesorios electrónicos y dispositivos móviles;
+Productos electrónicos: Electrónicos para el hogar, gadgets, accesorios electrónicos y dispositivos móviles.
 
-Ropa: Ropa para todas las edades y géneros, incluyendo moda casual, deportiva y formal;
+Ropa: Ropa para todas las edades y géneros, incluyendo moda casual, deportiva y formal.
 
-Juguetes: Juguetes para niños de diferentes edades y juegos de mesa;
+Juguetes: Juguetes para niños de diferentes edades y juegos de mesa.
 
-Productos para mascotas: Alimentos, accesorios y productos para el cuidado de mascotas;
+Productos para mascotas: Alimentos, accesorios y productos para el cuidado de mascotas.
 
 * Público objetivo:
 
@@ -24,7 +24,7 @@ Nuestro público objetivo estará compuesto por una amplia gama de personas, des
 
 Individuos ocupados: Personas con estilos de vida agitados que buscan soluciones prácticas para sus necesidades diarias y prefieren realizar compras en línea para ahorrar tiempo.
 
-Familias: Familias que desean abastecerse de manera completa y eficiente, aprovechando la comodidad de comprar todos sus productos en un solo lugar
+Familias: Familias que desean abastecerse de manera completa y eficiente, aprovechando la comodidad de comprar todos sus productos en un solo lugar.
 
 Personas mayores: Aquellos que buscan una forma accesible de comprar sus productos esenciales sin tener que desplazarse físicamente a una tienda.
 
