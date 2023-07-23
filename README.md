@@ -48,8 +48,8 @@ Seguridad y privacidad: Garantizaremos la seguridad de las transacciones y la pr
 
 * Equipo técnico:
 
-Analisis de datos y Diseño UI/UX: Jimenez Jesus Gabriel (estudiante de enfermeria)
-Diseño de UI/UX: Gonzalez Herrera Gastón Javier (estudiante de lic. en sistemas)
+Analisis de datos y Diseño UI/UX: Jimenez Jesus Gabriel (estudiante de enfermeria).
+Diseño de UI/UX: Gonzalez Herrera Gastón Javier (estudiante de lic. en sistemas).
 
 * Sitios de referencia
 
